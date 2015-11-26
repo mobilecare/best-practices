@@ -2,7 +2,7 @@
 
 # Git
 
-- Nome do projeto: <cliente>-<projeto>-<plataforma>
+- Nome do projeto: cliente-projeto-plataforma
 - Criar subtree com repositório de bibliotecas compartilhadas.
 
 # iOS
